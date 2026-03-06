@@ -1,8 +1,3 @@
 node_modules/
-.env
-__pycache__/
-*.pyc
-.venv/
-dist/
-build/
-.DS_Store
+.next/
+*.tsbuildinfo
